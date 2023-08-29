@@ -1,0 +1,5 @@
+results/
+data.csv
+model_hand.h5
+__pycache__/
+hand_reg_text.mp3
